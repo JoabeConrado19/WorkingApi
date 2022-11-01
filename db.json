@@ -14,5 +14,23 @@
       "teste": "aaa",
       "id": 2
     }
+  ],
+  "jobs": [
+    {
+      "userId": 2,
+      "Job": {
+        "Job_Name": "Diarista",
+        "Experience_Time": "2 anos"
+      },
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "Job": {
+        "Job_Name": "Encanador",
+        "Experience_Time": "2 anos"
+      },
+      "id": 2
+    }
   ]
 }
